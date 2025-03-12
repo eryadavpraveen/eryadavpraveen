@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me praveen.nitmn@gmail.com
 - 😄 Pronouns:He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Trust me I am an Engineer
 
 <!---
 eryadavpraveen/eryadavpraveen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
